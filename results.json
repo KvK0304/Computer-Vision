@@ -1,0 +1,247 @@
+{
+ "img_01.jpg": {
+  "boxes": [
+   [
+    220,
+    225,
+    308,
+    314
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_02.jpg": {
+  "boxes": [
+   [
+    351,
+    65,
+    470,
+    181
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_03.jpg": {
+  "boxes": [
+   [
+    198,
+    195,
+    230,
+    227
+   ]
+  ],
+  "confidence": "Medium",
+  "notes": [
+   "very small"
+  ]
+ },
+ "img_04.jpg": {
+  "boxes": [
+   [
+    206,
+    143,
+    395,
+    332
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_05.jpg": {
+  "boxes": [
+   [
+    352,
+    114,
+    467,
+    230
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_06.jpg": {
+  "boxes": [
+   [
+    105,
+    186,
+    236,
+    317
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_07.jpg": {
+  "boxes": [
+   [
+    314,
+    192,
+    390,
+    268
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_08.jpg": {
+  "boxes": [
+   [
+    151,
+    66,
+    224,
+    139
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_09.jpg": {
+  "boxes": [
+   [
+    288,
+    159,
+    340,
+    212
+   ]
+  ],
+  "confidence": "Low",
+  "notes": [
+   "blurred: border/X test relaxed",
+   "near-miss candidate at [562, 294, 605, 337]"
+  ]
+ },
+ "img_10.jpg": {
+  "boxes": [
+   [
+    60,
+    342,
+    127,
+    408
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_11.jpg": {
+  "boxes": [
+   [
+    115,
+    271,
+    225,
+    380
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_12.jpg": {
+  "boxes": [
+   [
+    406,
+    66,
+    457,
+    166
+   ]
+  ],
+  "confidence": "Medium",
+  "notes": [
+   "tag partly hidden (visible part not square / border incomplete)"
+  ]
+ },
+ "img_13.jpg": {
+  "boxes": [
+   [
+    409,
+    228,
+    489,
+    308
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_14.jpg": {
+  "boxes": [
+   [
+    382,
+    242,
+    443,
+    304
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_15.jpg": {
+  "boxes": [
+   [
+    257,
+    255,
+    337,
+    335
+   ],
+   [
+    360,
+    106,
+    425,
+    170
+   ]
+  ],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_16.jpg": {
+  "boxes": [
+   [
+    524,
+    245,
+    557,
+    278
+   ],
+   [
+    99,
+    77,
+    131,
+    109
+   ]
+  ],
+  "confidence": "Medium",
+  "notes": [
+   "very small",
+   "very small"
+  ]
+ },
+ "img_17.jpg": {
+  "boxes": [],
+  "confidence": "Medium",
+  "notes": [
+   "near-miss candidate at [480, 207, 548, 284]"
+  ]
+ },
+ "img_18.jpg": {
+  "boxes": [],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_19.jpg": {
+  "boxes": [],
+  "confidence": "High",
+  "notes": []
+ },
+ "img_20.jpg": {
+  "boxes": [
+   [
+    546,
+    190,
+    640,
+    302
+   ]
+  ],
+  "confidence": "Medium",
+  "notes": [
+   "touches image edge (tag cut off)"
+  ]
+ }
+}

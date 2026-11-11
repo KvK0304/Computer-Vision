@@ -1,0 +1,21 @@
+image_name,tags_found,bounding_boxes,confidence,i_think_correct,notes
+img_01.jpg,1,"[220, 225, 308, 314]",High,yes,
+img_02.jpg,1,"[351, 65, 470, 181]",High,yes,
+img_03.jpg,1,"[198, 195, 230, 227]",Medium,uncertain,very small
+img_04.jpg,1,"[206, 143, 395, 332]",High,yes,
+img_05.jpg,1,"[352, 114, 467, 230]",High,yes,
+img_06.jpg,1,"[105, 186, 236, 317]",High,yes,
+img_07.jpg,1,"[314, 192, 390, 268]",High,yes,
+img_08.jpg,1,"[151, 66, 224, 139]",High,yes,
+img_09.jpg,1,"[288, 159, 340, 212]",Low,uncertain,"blurred: border/X test relaxed | near-miss candidate at [562, 294, 605, 337]"
+img_10.jpg,1,"[60, 342, 127, 408]",High,yes,
+img_11.jpg,1,"[115, 271, 225, 380]",High,yes,
+img_12.jpg,1,"[406, 66, 457, 166]",Medium,uncertain,tag partly hidden (visible part not square / border incomplete)
+img_13.jpg,1,"[409, 228, 489, 308]",High,yes,
+img_14.jpg,1,"[382, 242, 443, 304]",High,yes,
+img_15.jpg,2,"[257, 255, 337, 335]; [360, 106, 425, 170]",High,yes,
+img_16.jpg,2,"[524, 245, 557, 278]; [99, 77, 131, 109]",Medium,uncertain,very small
+img_17.jpg,0,none,Medium,uncertain,"near-miss candidate at [480, 207, 548, 284]"
+img_18.jpg,0,none,High,yes,
+img_19.jpg,0,none,High,yes,
+img_20.jpg,1,"[546, 190, 640, 302]",Medium,uncertain,touches image edge (tag cut off)
